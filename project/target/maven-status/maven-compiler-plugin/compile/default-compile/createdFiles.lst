@@ -1,0 +1,8 @@
+com\nordea\currency\project\cutofftime\CutoffTimeServiceImpl.class
+com\nordea\currency\project\currency\Currency.class
+com\nordea\currency\project\currency\CurrencyRepository.class
+com\nordea\currency\project\CurrencyProjectApplication.class
+com\nordea\currency\project\cutofftime\CutoffTimeService.class
+com\nordea\currency\project\cutofftime\CutoffTime.class
+com\nordea\currency\project\cutofftime\CutoffTimeController.class
+com\nordea\currency\project\cutofftime\CutoffTimeRepository.class

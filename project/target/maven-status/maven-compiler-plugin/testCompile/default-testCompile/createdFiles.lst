@@ -1,0 +1,5 @@
+com\nordea\currency\project\cutofftime\CutoffTimeServiceImplIntegrationTest.class
+com\nordea\currency\project\cutofftime\CutoffTimeControllerIntegrationTest.class
+com\nordea\currency\project\currency\CurrencyRepositoryIntegrationTest.class
+com\nordea\currency\project\cutofftime\CutoffTimeServiceImplIntegrationTest$CutoffTimeServiceImplTestContextConfiguration.class
+com\nordea\currency\project\CurrencyProjectApplicationTests.class

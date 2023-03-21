@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  nordea_projectapp:
+    build: .
+    image: nordea_projectapp
+    container_name: nordea_projectapp
+    ports:
+      - "8080:8080"
+  
+    
